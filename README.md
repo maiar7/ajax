@@ -1,6 +1,5 @@
 # ajax
-frontend beginner
-code.js
+
 var allLinks = document.querySelectorAll("nav .nav-link");
 
 var allMeals = [];
